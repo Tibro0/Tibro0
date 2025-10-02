@@ -1,3 +1,8 @@
+# 💫 Hi 👋, I'm MD. Faysal Hossain Tibro.
+**Full Stack Web Developer. PHP & Laravel Expert.**
+
+Email:**faysaltibro@gmail.com**
+Portfolio Website:**https://devtibro.com/**
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/faysaltibro1) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/faysaltibro) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-faysal-hossain-tibro-1aa622226) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@faysalhossaintibro2351) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:faysaltibro@gmail.com) 

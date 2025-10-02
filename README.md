@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm MD. Faysal Hossain Tibro.
 **Full Stack Web Developer. PHP & Laravel Expert.**
 
-Email:**faysaltibro@gmail.com**
+Email:**faysaltibro@gmail.com**<br>
 Portfolio Website:**https://devtibro.com/**
 
 ## 🌐 Socials:
